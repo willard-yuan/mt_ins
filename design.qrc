@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/about.png</file>
+        <file>icons/calibrate.png</file>
+        <file>icons/calibrate1.png</file>
+        <file>icons/db.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/exit.png</file>
+        <file>icons/eye.png</file>
+        <file>icons/eyeMain.png</file>
+        <file>icons/galaxyImgs.png</file>
+        <file>icons/heatmap.png</file>
+        <file>icons/play.png</file>
+        <file>icons/record.png</file>
+        <file>icons/tracking.png</file>
+        <file>icons/upload.png</file>
+        <file>icons/video.png</file>
+        <file>icons/webcam.png</file>
+        <file>image/add_bottom.png</file>
+        <file>image/add_left.png</file>
+        <file>image/add_right.png</file>
+        <file>image/add_top.png</file>
+        <file>image/btn_close.png</file>
+        <file>image/btn_ok.png</file>
+        <file>image/checkbox_checked.png</file>
+        <file>image/checkbox_unchecked.png</file>
+        <file>image/Font Awesome Cheatsheet.png</file>
+        <file>image/fontawesome-webfont.ttf</file>
+        <file>image/logo.png</file>
+        <file>image/msg_error.png</file>
+        <file>image/msg_info.png</file>
+        <file>image/msg_question.png</file>
+        <file>image/qt_zh_CN.qm</file>
+        <file>image/radio_normal.png</file>
+        <file>image/radio_selected.png</file>
+        <file>qss/dev.css</file>
+        <file>icon.iconset/1473021726_eye.png</file>
+        <file>icon.iconset/1473021730_eye.png</file>
+        <file>icon.iconset/1473021733_eye.png</file>
+        <file>icon.iconset/1473021736_eye.png</file>
+        <file>icon.iconset/1473021739_eye.png</file>
+        <file>icon.iconset/1473021741_eye.png</file>
+        <file>icon.iconset/1473021744_eye.png</file>
+        <file>icon.iconset/icon_12x12.png</file>
+        <file>icon.iconset/icon_256x256.png</file>
+    </qresource>
+</RCC>
